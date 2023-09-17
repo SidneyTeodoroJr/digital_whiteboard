@@ -2,7 +2,7 @@
 </br>
 
 <div align="center">
-<img src="https://github.com/SidneyTeodoroJr/digital_whiteboard/blob/main/digital_whiteboard.png" alt="gradient">
+<img src="https://github.com/SidneyTeodoroJr/digital_whiteboard/blob/main/digital_whiteboard.png" alt="Digital Whiteboard">
 </div>
 </br>
 </br>
