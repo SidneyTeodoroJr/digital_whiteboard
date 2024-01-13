@@ -45,12 +45,6 @@ A main window is created using `tk.Tk()`, with a title ("WHITE BOARD"), fixed si
 
 . Mouse events (click and drag) are linked to drawing functions.
 
-## Slider
-
-. A horizontal slider is added to the window to adjust the thickness of the drawing line.
-
-. A label displays the current value selected in the slider.
-
 ## Main Loop
 
 The main loop (`root.mainloop()`) is started to run the GUI and wait for user interaction.
@@ -61,7 +55,7 @@ In summary, this script creates a simple whiteboard application with basic drawi
 ## Contributions
 
 <p>
-Contributions are welcome! If you want to improve facial detection, add new features, or fix issues, feel free to submit a pull request. </br>If you encounter any problems or have any suggestions for improvement, you can contact me through my profile on <a href="https://github.com/SidneyTeodoroJr">GitHub</a> or through my social networks listed below.
+Contributions are welcome! If you want to improve the project, add new features or fix problems, feel free.
 </p>
 
 <hr>
